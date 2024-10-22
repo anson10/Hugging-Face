@@ -41,15 +41,15 @@ To make the detected keypoints **rotation-invariant**, SIFT assigns one or more 
 For each pixel in the neighborhood around a keypoint, the gradient magnitude and orientation are calculated as follows:
 
 - **Magnitude:**
-  \[
+  $$
   \text{Magnitude} = \sqrt{G_x^2 + G_y^2}
-  \]
+  $$
   where $ G_x $ and $ G_y $ are the horizontal and vertical gradients, respectively.
 
 - **Orientation:**
-  \[
+  $$
   \text{Orientation} = \arctan\left(\frac{G_y}{G_x}\right)
-  \]
+  $$
 
 ### Steps:
 
