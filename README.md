@@ -19,6 +19,7 @@ Each folder in this repository represents a different course from the Hugging Fa
 I plan to update the repository regularly as I go through other Hugging Face courses, such as:
 - Natural Language Processing (NLP)
 - Multimodal AI
+- Reinforcement Learning
 - And more to come...
 
 ## How to Use
